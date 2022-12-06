@@ -1,4 +1,4 @@
 # Vue Todo
-# Live https://casio-store.vercel.app/
+# Live https://vueetodo.netlify.app/
 
-![Screen Banner](cover/1.png)
+![Screen Banner](cover/1.jpg)
